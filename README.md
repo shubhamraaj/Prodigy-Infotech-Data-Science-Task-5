@@ -10,7 +10,7 @@ The goal of this project is to analyze traffic accident data to understand patte
 
 ## Data Description
 
-The <a href = "https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents">`dataset`</a> used in this analysis contains the following attributes:
+The <a href = "https://github.com/shubhamraaj/Prodigy-Infotech-Data-Science-Task-5/blob/9b5180b8cbdbfc4af36f234f774f6d4fc17f89e7/US%20Accident%20Database.csv">`dataset`</a> used in this analysis contains the following attributes:
 
 | Attribute              | Description                                                                                     |
 |------------------------|-------------------------------------------------------------------------------------------------|
