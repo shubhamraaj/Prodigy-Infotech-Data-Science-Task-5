@@ -1,6 +1,6 @@
 # Prodigy-Infotech-Data-Science-Task-5
 <br>
-<img src="https://github.com/kindo-tk/PRODIGY_DS_05/blob/main/ds5.png">
+<img src="https://github.com/shubhamraaj/Prodigy-Infotech-Data-Science-Task-5/blob/abe261ac56af0bef44772484c262237b9ed29315/Data%20Science%20Task%205.PNG">
 
 Welcome to the repository for my traffic accident data analysis project, completed during my data science internship at `Prodigy Infotech`. This project involves data cleaning, exploratory data analysis (EDA), visualization, and deriving insights from a dataset containing traffic accident records.
 
